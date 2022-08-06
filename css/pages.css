@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(16, 16, 16);
+
+}
+
+.cabecalho{
+    position: fixed;
+    margin: 0;
+    width: 100%;
+    border-bottom: 2px;
+    color: #c7a408;
+    top: 0;
+    left: 0;
+    text-align: center;
+    background-color: #481818;
+    font-family: 'Chinese Rocks Rg';
+  
+}
+
+/*3840 x 1880*/
+
+.armas1{
+    background-image: url(../img/Armas/jornal-pistol2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 82px;
+    margin-left: 8px;
+    width: 1366px;
+    height: 768px;
+
+}
+
+.armas2{
+    background-image: url(../img/Armas/jornal-repeater2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 82px;
+    margin-left: 8px;
+    width: 1366px;
+    height: 768px;
+
+}
+
+.armas3{
+    background-image: url(../img/Armas/jornal-revolver2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 82px;
+    margin-left: 8px;
+    width: 1366px;
+    height: 768px;
+
+}
+
+.armas4{
+    background-image: url(../img/Armas/jornal-rifle2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 82px;
+    margin-left: 8px;
+    width: 1366px;
+    height: 768px;
+
+}
+
+.armas5{
+    background-image: url(../img/Armas/jornal-sawedoff2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 82px;
+    margin-left: 8px;
+    width: 1366px;
+    height: 768px;
+  
+}

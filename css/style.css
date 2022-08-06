@@ -1,0 +1,56 @@
+body{
+    margin:10%;
+    background-position: center;
+    background-size: 100%;
+    background-image: url(../img/977202.jpg);
+}
+
+.cabecalho{
+    position: fixed;
+    margin: 0;
+    width: 100%;
+    border-bottom: 2px;
+    color: rgb(255, 255, 255);
+    top: 0;
+    left: 0;
+    text-align: center;
+    background-color: #481818;
+    font-family: 'Chinese Rocks Rg';
+  
+}
+.cabecalho > ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    padding: 0;
+    gap: 30px;
+    color: #c7a408;
+}
+
+.links:hover{
+    color: #fff;
+}
+
+.links{
+    text-decoration: none;
+    color: #c7a408;
+}
+
+
+
+.container{
+    height: 300px;
+    width: 50%;
+    margin-left: 45vh;
+    padding: 40px;
+    margin-top: 20vh;
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Chinese Rocks Rg', sans-serif;
+    color: #fff;
+
+    
+}
+
